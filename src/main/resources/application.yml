@@ -1,0 +1,10 @@
+server:
+    port: 8083
+
+welcome:
+    message: Welcome Group 9!
+
+basic:
+    aNumber: 9
+    aString: Olá grupo 9
+    aBoolean: True
